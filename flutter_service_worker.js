@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "1701%201436.zip": "eaabc4455f1f4b3dcc08b3b707f07c45",
-"assets/AssetManifest.json": "31e0258c3e4126f5f6c0a670b2677e28",
+  "2901%202340.zip": "136f346253a5f3d5691f14a705411013",
+"assets/AssetManifest.json": "7d8fa2991d1e1db69929c2f853d85df2",
 "assets/assets/fonts/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/assets/fonts/OpenSans-Italic.ttf": "f6238deb7f40a7a03134c11fb63ad387",
 "assets/assets/fonts/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/images/male_icon.png": "0170f7ed06039bba3747a176e01ee8da",
 "assets/assets/images/no_appointment.png": "7bdb1eb73514c8a8a6015e5c63fcb573",
 "assets/assets/images/prescription_header.jpeg": "a76656f4e84967fa6e4f1c44e8eafe2b",
+"assets/assets/images/tick_icon.png": "5451449e6c8fdfe895ae21d802eb1eb4",
 "assets/FontManifest.json": "3e3adbbe26ce23537aacddb5d41b6032",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "1f64bf801587e970006dd3aa1ea764c5",
@@ -22,9 +23,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "6cd9c318657543ea612bd706f246d660",
-"/": "6cd9c318657543ea612bd706f246d660",
-"main.dart.js": "07c774b9687edda746b8d8facd757888",
+"index.html": "c0ff450af436929499dae08ce856d2b5",
+"/": "c0ff450af436929499dae08ce856d2b5",
+"main.dart.js": "b69b3b960503fff16128e5f214955b70",
 "manifest.json": "bc00932895eeaee8bbc6cf927a3d5b78",
 "version.json": "5c855a4892508028794a480999adcc51"
 };
